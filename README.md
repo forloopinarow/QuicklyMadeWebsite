@@ -6,3 +6,5 @@ Its just a website I made for school, here ill explain the complex install proce
 Just download the files and open them in your IDE of choice, i used Visual Studio Code
 
 IF you cant figure it out you lwky dont deserve to look at my website
+
+Its not supposed to be an actual website, just wanted to do something fun
